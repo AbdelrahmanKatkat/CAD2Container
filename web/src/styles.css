@@ -1,0 +1,22 @@
+:root { --g: #1f4d36; --bg: #f5f2ea; --ink: #2b2f33; --gold: #b8923a; --amber: #b36b00; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 14px system-ui, sans-serif; background: var(--bg); color: var(--ink); }
+.app { display: flex; flex-direction: column; min-height: 100vh; }
+header { background: var(--g); color: #fff; padding: 10px 16px; display: flex; gap: 10px; align-items: center; }
+header b { margin-right: 16px; font-size: 16px; }
+header button { background: none; border: 0; color: #fff; padding: 6px 12px; border-radius: 6px; cursor: pointer; text-transform: capitalize; }
+header button.on { background: var(--gold); color: #222; }
+.cols { flex: 1; display: grid; grid-template-columns: 240px 1fr 320px; gap: 12px; padding: 12px; }
+@media (max-width: 900px) { .cols { grid-template-columns: 1fr; } }
+aside, section, .pad { background: #fff; border-radius: 8px; padding: 12px; }
+.pad { margin: 12px; }
+.item { padding: 8px; border-radius: 6px; cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
+.item small { color: #777; }
+.item.sel { background: var(--g); color: #fff; }
+.item.sel small { color: #cfe; }
+.viewer { height: 420px; border-radius: 6px; overflow: hidden; }
+.note { color: #777; font-size: 12px; }
+.warn { color: var(--amber); }
+table { width: 100%; font-size: 12px; }
+button, .btn { background: var(--g); color: #fff; border: 0; padding: 7px 12px; border-radius: 6px; cursor: pointer; display: inline-block; }
+footer { padding: 10px 16px; background: #e8e4d8; }

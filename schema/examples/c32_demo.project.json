@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "project_id": "DEMO_C32_NOT_REAL_DATA",
+  "units": "mm",
+  "source_drawings": ["C32 ISO202026.dwg"],
+  "base": { "body_file": "ISO CONTAINER - 20 Body_C18.SLDPRT", "floor_file": "iso 20_ 17Cm Floor.SLDPRT" },
+  "parts": [
+    {
+      "id": "P01", "type": "floor_water_drains", "instance": 1,
+      "template": { "id": "floor_water_drains", "version": "0.0.0-unmade" },
+      "status": "not_configured",
+      "parameters": [
+        { "name": "drain_positions_x_mm", "value": [1000, 3000, 5000], "unit": "mm",
+          "verification": "user_override", "source": { "note": "DEMO PLACEHOLDER, replace with real positions" } }
+      ]
+    },
+    {
+      "id": "P02", "type": "fixed_louvers", "instance": 1,
+      "template": { "id": "fixed_louvers", "version": "0.0.0-unmade" },
+      "status": "not_configured",
+      "parameters": [
+        { "name": "label", "value": "Inlet Louvers", "unit": "text", "verification": "verified",
+          "source": { "drawing": "QP104 ... 3516 ....dwg", "entity_handle": "see reports/d3.json keyword_hits", "note": "name only; size not yet extracted" } }
+      ]
+    }
+  ],
+  "assembly": { "status": "not_built", "mates": [] }
+}

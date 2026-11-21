@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CAD2SolidWorks project",
+  "type": "object",
+  "required": ["schema_version", "project_id", "units", "base", "parts"],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "project_id": { "type": "string" },
+    "units": { "const": "mm" },
+    "source_drawings": { "type": "array", "items": { "type": "string" } },
+    "base": {
+      "description": "Fixed container body and floor. Not generated; referenced as-is.",
+      "type": "object",
+      "required": ["body_file", "floor_file"],
+      "properties": { "body_file": { "type": "string" }, "floor_file": { "type": "string" } }
+    },
+    "parts": { "type": "array", "items": { "$ref": "#/$defs/part" } },
+    "assembly": {
+      "type": "object",
+      "properties": {
+        "template": { "type": "string" },
+        "status": { "$ref": "#/$defs/assembly_status" },
+        "mates": { "type": "array", "items": { "type": "object" } }
+      }
+    },
+    "history": { "type": "array", "items": { "type": "object" } }
+  },
+  "$defs": {
+    "part_type": {
+      "enum": ["single_door", "double_door", "ladder", "fixed_louvers", "cable_entry",
+               "drain_access", "floor_water_drains", "door_alarm", "sand_trap", "motorized_louver"]
+    },
+    "assembly_status": { "enum": ["not_built", "building", "built", "needs_regeneration", "validated", "failed"] },
+    "part_status": {
+      "enum": ["not_configured", "ready_for_review", "generating", "generation_failed",
+               "generated", "validated", "needs_revision"]
+    },
+    "parameter": {
+      "type": "object",
+      "required": ["name", "value", "unit", "verification"],
+      "properties": {
+        "name": { "type": "string", "description": "Equals the named dimension in the SolidWorks template." },
+        "value": { "type": ["number", "integer", "boolean", "string", "array"] },
+        "unit": { "enum": ["mm", "deg", "count", "bool", "text"] },
+        "verification": { "enum": ["verified", "derived", "inferred", "unknown", "user_override", "template_default"] },
+        "source": {
+          "type": "object",
+          "properties": {
+            "drawing": { "type": "string" },
+            "entity_handle": { "type": "string" },
+            "note": { "type": "string" }
+          }
+        },
+        "locked": { "type": "boolean" },
+        "range": { "type": "array", "items": { "type": "number" }, "minItems": 2, "maxItems": 2 }
+      }
+    },
+    "part": {
+      "type": "object",
+      "required": ["id", "type", "template", "status", "parameters"],
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "$ref": "#/$defs/part_type" },
+        "instance": { "type": "integer", "minimum": 1, "description": "e.g. 2 louvers of same type" },
+        "template": {
+          "type": "object",
+          "required": ["id", "version"],
+          "properties": { "id": { "type": "string" }, "version": { "type": "string" } }
+        },
+        "status": { "$ref": "#/$defs/part_status" },
+        "parameters": { "type": "array", "items": { "$ref": "#/$defs/parameter" } },
+        "placement": {
+          "description": "Position on the fixed body, mm, body origin.",
+          "type": "object",
+          "properties": {
+            "face": { "enum": ["front", "rear", "left", "right", "roof", "floor"] },
+            "x": { "type": "number" }, "y": { "type": "number" }, "z": { "type": "number" }
+          }
+        },
+        "outputs": { "type": "object", "properties": { "sldprt": { "type": "string" }, "preview_mesh": { "type": "string" } } },
+        "validation": {
+          "type": "object",
+          "properties": {
+            "automatic": { "enum": ["not_run", "passed", "failed"] },
+            "manual_approved": { "type": "boolean" },
+            "messages": { "type": "array", "items": { "type": "string" } },
+            "params_hash_at_validation": { "type": "string", "description": "If current hash differs, status must revert to needs_revision." }
+          }
+        }
+      }
+    }
+  }
+}

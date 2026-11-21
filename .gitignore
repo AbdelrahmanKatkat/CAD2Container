@@ -1,0 +1,7 @@
+work/
+__pycache__/
+*.dxf
+bin/
+obj/
+SW_sample/
+CAD_sample/

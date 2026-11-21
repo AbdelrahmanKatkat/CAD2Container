@@ -1,0 +1,3802 @@
+{
+ "tag": "d4",
+ "insunits": 4,
+ "dims": [
+  {
+   "handle": "14B4A",
+   "layer": "0",
+   "measure": 2550.0,
+   "override": "",
+   "x": 40668.8,
+   "y": 9474.0,
+   "block": "*D5"
+  },
+  {
+   "handle": "1727B",
+   "layer": "0",
+   "measure": 2450.0,
+   "override": "",
+   "x": 39104.8,
+   "y": 13995.7,
+   "block": "*D7"
+  },
+  {
+   "handle": "1728A",
+   "layer": "0",
+   "measure": 7350.0,
+   "override": "",
+   "x": 38831.5,
+   "y": 14363.1,
+   "block": "*D8"
+  },
+  {
+   "handle": "172AF",
+   "layer": "0",
+   "measure": 2550.0,
+   "override": "",
+   "x": 39257.3,
+   "y": 9474.0,
+   "block": "*D9"
+  },
+  {
+   "handle": "1DD6B",
+   "layer": "S-DIM",
+   "measure": 800.0,
+   "override": "",
+   "x": 32728.6,
+   "y": 13558.0,
+   "block": "*D28"
+  },
+  {
+   "handle": "1DD79",
+   "layer": "S-DIM",
+   "measure": 250.0,
+   "override": "",
+   "x": 32842.7,
+   "y": 13905.7,
+   "block": "*D29"
+  },
+  {
+   "handle": "1E6D7",
+   "layer": "S-DIM",
+   "measure": 600.0,
+   "override": "",
+   "x": 32498.4,
+   "y": 11933.9,
+   "block": "*D52"
+  },
+  {
+   "handle": "1E6D8",
+   "layer": "S-DIM",
+   "measure": 200.0,
+   "override": "",
+   "x": 31778.5,
+   "y": 11835.7,
+   "block": "*D53"
+  },
+  {
+   "handle": "1E77B",
+   "layer": "S-DIM",
+   "measure": 2850.0,
+   "override": "",
+   "x": 35981.5,
+   "y": 14139.1,
+   "block": "*D55"
+  },
+  {
+   "handle": "1E7A3",
+   "layer": "S-DIM",
+   "measure": 1500.0,
+   "override": "",
+   "x": 34481.5,
+   "y": 14139.1,
+   "block": "*D56"
+  },
+  {
+   "handle": "1E7B1",
+   "layer": "S-DIM",
+   "measure": 1100.0,
+   "override": "",
+   "x": 33381.5,
+   "y": 14138.8,
+   "block": "*D57"
+  },
+  {
+   "handle": "1E7BE",
+   "layer": "S-DIM",
+   "measure": 600.0,
+   "override": "",
+   "x": 32781.5,
+   "y": 14138.8,
+   "block": "*D58"
+  },
+  {
+   "handle": "1E7CC",
+   "layer": "S-DIM",
+   "measure": 1300.0,
+   "override": "",
+   "x": 31481.5,
+   "y": 14138.8,
+   "block": "*D59"
+  },
+  {
+   "handle": "1E8A3",
+   "layer": "0",
+   "measure": 1800.0,
+   "override": "",
+   "x": 37031.5,
+   "y": 11377.3,
+   "block": "*D60"
+  },
+  {
+   "handle": "1E8B1",
+   "layer": "0",
+   "measure": 600.0,
+   "override": "",
+   "x": 36431.5,
+   "y": 11377.3,
+   "block": "*D61"
+  },
+  {
+   "handle": "1E8BF",
+   "layer": "0",
+   "measure": 450.0,
+   "override": "",
+   "x": 35981.5,
+   "y": 11377.3,
+   "block": "*D62"
+  },
+  {
+   "handle": "1E8CD",
+   "layer": "0",
+   "measure": 1500.0,
+   "override": "",
+   "x": 34481.5,
+   "y": 11377.3,
+   "block": "*D63"
+  },
+  {
+   "handle": "1E8DB",
+   "layer": "0",
+   "measure": 1800.03,
+   "override": "",
+   "x": 32681.5,
+   "y": 11377.3,
+   "block": "*D64"
+  },
+  {
+   "handle": "1E8E9",
+   "layer": "0",
+   "measure": 200.0,
+   "override": "",
+   "x": 31481.5,
+   "y": 11377.6,
+   "block": "*D65"
+  },
+  {
+   "handle": "1E8F7",
+   "layer": "0",
+   "measure": 7350.0,
+   "override": "",
+   "x": 38831.5,
+   "y": 11076.2,
+   "block": "*D66"
+  },
+  {
+   "handle": "1EF92",
+   "layer": "0",
+   "measure": 1800.0,
+   "override": "",
+   "x": 55984.6,
+   "y": 6755.5,
+   "block": "*D79"
+  },
+  {
+   "handle": "1EF93",
+   "layer": "0",
+   "measure": 600.0,
+   "override": "",
+   "x": 55384.6,
+   "y": 6755.5,
+   "block": "*D80"
+  },
+  {
+   "handle": "1EF94",
+   "layer": "0",
+   "measure": 450.0,
+   "override": "",
+   "x": 54934.6,
+   "y": 6755.5,
+   "block": "*D74"
+  },
+  {
+   "handle": "1EF95",
+   "layer": "0",
+   "measure": 1500.0,
+   "override": "",
+   "x": 53434.6,
+   "y": 6755.5,
+   "block": "*D75"
+  },
+  {
+   "handle": "1EF96",
+   "layer": "0",
+   "measure": 1800.03,
+   "override": "",
+   "x": 51634.6,
+   "y": 6755.5,
+   "block": "*D76"
+  },
+  {
+   "handle": "1EF97",
+   "layer": "0",
+   "measure": 200.0,
+   "override": "",
+   "x": 50434.6,
+   "y": 6755.9,
+   "block": "*D77"
+  },
+  {
+   "handle": "1EF98",
+   "layer": "0",
+   "measure": 7350.0,
+   "override": "",
+   "x": 57784.6,
+   "y": 6554.0,
+   "block": "*D78"
+  },
+  {
+   "handle": "1F044",
+   "layer": "0",
+   "measure": 999.97,
+   "override": "",
+   "x": 51634.6,
+   "y": 6755.5,
+   "block": "*D81"
+  },
+  {
+   "handle": "1F052",
+   "layer": "0",
+   "measure": 7350.0,
+   "override": "",
+   "x": 50434.6,
+   "y": 10853.2,
+   "block": "*D82"
+  },
+  {
+   "handle": "1F053",
+   "layer": "S-DIM",
+   "measure": 2850.0,
+   "override": "",
+   "x": 53284.6,
+   "y": 11049.2,
+   "block": "*D84"
+  },
+  {
+   "handle": "1F054",
+   "layer": "S-DIM",
+   "measure": 1500.0,
+   "override": "",
+   "x": 54784.6,
+   "y": 11049.2,
+   "block": "*D85"
+  },
+  {
+   "handle": "1F055",
+   "layer": "S-DIM",
+   "measure": 1100.0,
+   "override": "",
+   "x": 55884.6,
+   "y": 11049.2,
+   "block": "*D86"
+  },
+  {
+   "handle": "1F056",
+   "layer": "S-DIM",
+   "measure": 600.0,
+   "override": "",
+   "x": 56484.6,
+   "y": 11049.2,
+   "block": "*D87"
+  },
+  {
+   "handle": "1F057",
+   "layer": "S-DIM",
+   "measure": 1300.0,
+   "override": "",
+   "x": 57784.6,
+   "y": 11049.2,
+   "block": "*D83"
+  },
+  {
+   "handle": "1F15A",
+   "layer": "0",
+   "measure": 225.0,
+   "override": "",
+   "x": 60379.3,
+   "y": 6753.1,
+   "block": "*D88"
+  },
+  {
+   "handle": "1F168",
+   "layer": "0",
+   "measure": 2000.0,
+   "override": "",
+   "x": 62379.3,
+   "y": 6753.1,
+   "block": "*D89"
+  },
+  {
+   "handle": "1F176",
+   "layer": "0",
+   "measure": 225.0,
+   "override": "",
+   "x": 62604.3,
+   "y": 6753.1,
+   "block": "*D90"
+  },
+  {
+   "handle": "1F184",
+   "layer": "0",
+   "measure": 2450.0,
+   "override": "",
+   "x": 62604.3,
+   "y": 6554.0,
+   "block": "*D91"
+  },
+  {
+   "handle": "1F192",
+   "layer": "0",
+   "measure": 2450.0,
+   "override": "",
+   "x": 62604.3,
+   "y": 11037.1,
+   "block": "*D92"
+  },
+  {
+   "handle": "1F56F",
+   "layer": "0",
+   "measure": 1100.0,
+   "override": "",
+   "x": 38741.5,
+   "y": 11789.5,
+   "block": "*D95"
+  },
+  {
+   "handle": "1FADA",
+   "layer": "0",
+   "measure": 219.08,
+   "override": "",
+   "x": 53371.4,
+   "y": 13813.3,
+   "block": "*D99"
+  },
+  {
+   "handle": "1FB04",
+   "layer": "0",
+   "measure": 3002.24,
+   "override": "",
+   "x": 34484.6,
+   "y": 15078.7,
+   "block": "*D101"
+  },
+  {
+   "handle": "1FB12",
+   "layer": "0",
+   "measure": 3000.0,
+   "override": "",
+   "x": 53434.6,
+   "y": 6298.6,
+   "block": "*D102"
+  },
+  {
+   "handle": "1FB20",
+   "layer": "0",
+   "measure": 300.0,
+   "override": "",
+   "x": 52734.6,
+   "y": 9532.9,
+   "block": "*D103"
+  },
+  {
+   "handle": "1FB2E",
+   "layer": "0",
+   "measure": 1999.97,
+   "override": "",
+   "x": 52434.6,
+   "y": 9620.3,
+   "block": "*D104"
+  },
+  {
+   "handle": "1FB3D",
+   "layer": "0",
+   "measure": 3000.0,
+   "override": "",
+   "x": 54784.6,
+   "y": 10514.1,
+   "block": "*D105"
+  },
+  {
+   "handle": "1FB61",
+   "layer": "0",
+   "measure": 50.0,
+   "override": "",
+   "x": 38391.9,
+   "y": 9324.0,
+   "block": "*D105"
+  },
+  {
+   "handle": "1FB87",
+   "layer": "0",
+   "measure": 2400.0,
+   "override": "",
+   "x": 38246.3,
+   "y": 9324.0,
+   "block": "*D107"
+  },
+  {
+   "handle": "1FB95",
+   "layer": "0",
+   "measure": 2450.0,
+   "override": "",
+   "x": 38573.3,
+   "y": 9374.0,
+   "block": "*D108"
+  },
+  {
+   "handle": "1FBA3",
+   "layer": "0",
+   "measure": 90.0,
+   "override": "",
+   "x": 36394.9,
+   "y": 13905.7,
+   "block": "*D109"
+  },
+  {
+   "handle": "1FBB1",
+   "layer": "0",
+   "measure": 2270.0,
+   "override": "",
+   "x": 37408.0,
+   "y": 11635.7,
+   "block": "*D110"
+  },
+  {
+   "handle": "1FBE3",
+   "layer": "0",
+   "measure": 1165.0,
+   "override": "",
+   "x": 58094.8,
+   "y": 11220.6,
+   "block": "*D111"
+  },
+  {
+   "handle": "1FBFB",
+   "layer": "0",
+   "measure": 1385.0,
+   "override": "",
+   "x": 58152.9,
+   "y": 13770.6,
+   "block": "*D112"
+  },
+  {
+   "handle": "1FC09",
+   "layer": "0",
+   "measure": 219.08,
+   "override": "",
+   "x": 35894.8,
+   "y": 9526.9,
+   "block": "*D113"
+  },
+  {
+   "handle": "1FC27",
+   "layer": "0",
+   "measure": 4323.41,
+   "override": "",
+   "x": 35894.9,
+   "y": 9156.7,
+   "block": "*D115"
+  },
+  {
+   "handle": "1FC43",
+   "layer": "0",
+   "measure": 1647.39,
+   "override": "",
+   "x": 37761.5,
+   "y": 9196.8,
+   "block": "*D117"
+  },
+  {
+   "handle": "1FC71",
+   "layer": "0",
+   "measure": 219.08,
+   "override": "",
+   "x": 42317.0,
+   "y": 9505.1,
+   "block": "*D117"
+  },
+  {
+   "handle": "1FC7F",
+   "layer": "0",
+   "measure": 185.0,
+   "override": "",
+   "x": 30966.1,
+   "y": 11770.7,
+   "block": "*D118"
+  },
+  {
+   "handle": "1FC8D",
+   "layer": "0",
+   "measure": 185.0,
+   "override": "",
+   "x": 30557.9,
+   "y": 13770.7,
+   "block": "*D119"
+  },
+  {
+   "handle": "1FC9B",
+   "layer": "0",
+   "measure": 225.0,
+   "override": "",
+   "x": 30263.3,
+   "y": 13770.7,
+   "block": "*D120"
+  },
+  {
+   "handle": "1FCB7",
+   "layer": "0",
+   "measure": 225.0,
+   "override": "",
+   "x": 30266.7,
+   "y": 11545.7,
+   "block": "*D121"
+  },
+  {
+   "handle": "1FCC5",
+   "layer": "0",
+   "measure": 469.62,
+   "override": "",
+   "x": 37253.4,
+   "y": 12015.3,
+   "block": "*D122"
+  },
+  {
+   "handle": "1FCE1",
+   "layer": "0",
+   "measure": 442.46,
+   "override": "",
+   "x": 37458.0,
+   "y": 11572.8,
+   "block": "*D124"
+  },
+  {
+   "handle": "1FCEF",
+   "layer": "0",
+   "measure": 428.38,
+   "override": "",
+   "x": 37263.8,
+   "y": 13527.3,
+   "block": "*D125"
+  },
+  {
+   "handle": "1FCFD",
+   "layer": "0",
+   "measure": 379.62,
+   "override": "",
+   "x": 37566.3,
+   "y": 11635.7,
+   "block": "*D126"
+  },
+  {
+   "handle": "1FD0B",
+   "layer": "0",
+   "measure": 378.38,
+   "override": "",
+   "x": 37518.8,
+   "y": 13905.7,
+   "block": "*D127"
+  },
+  {
+   "handle": "1FD19",
+   "layer": "0",
+   "measure": 613.2,
+   "override": "",
+   "x": 37988.4,
+   "y": 6924.0,
+   "block": "*D128"
+  },
+  {
+   "handle": "1FD3D",
+   "layer": "0",
+   "measure": 219.08,
+   "override": "",
+   "x": 54848.0,
+   "y": 9522.0,
+   "block": "*D127"
+  },
+  {
+   "handle": "1FD9B",
+   "layer": "0",
+   "measure": 337.0,
+   "override": "",
+   "x": 53093.3,
+   "y": 13899.1,
+   "block": "*D127"
+  },
+  {
+   "handle": "1FDA9",
+   "layer": "0",
+   "measure": 2827.22,
+   "override": "",
+   "x": 36004.3,
+   "y": 10173.6,
+   "block": "*D128"
+  },
+  {
+   "handle": "1FDB7",
+   "layer": "0",
+   "measure": 4522.78,
+   "override": "",
+   "x": 36004.3,
+   "y": 9699.9,
+   "block": "*D129"
+  },
+  {
+   "handle": "1FDF8",
+   "layer": "0",
+   "measure": 1807.22,
+   "override": "",
+   "x": 37811.5,
+   "y": 9425.7,
+   "block": "*D131"
+  },
+  {
+   "handle": "1FE06",
+   "layer": "0",
+   "measure": 1020.0,
+   "override": "",
+   "x": 38831.5,
+   "y": 9220.5,
+   "block": "*D132"
+  },
+  {
+   "handle": "1FE32",
+   "layer": "0",
+   "measure": 1020.0,
+   "override": "",
+   "x": 37811.5,
+   "y": 9729.6,
+   "block": "*D133"
+  },
+  {
+   "handle": "1FE5E",
+   "layer": "0",
+   "measure": 2827.22,
+   "override": "",
+   "x": 57784.6,
+   "y": 10168.2,
+   "block": "*D134"
+  },
+  {
+   "handle": "1FE6C",
+   "layer": "0",
+   "measure": 2827.22,
+   "override": "",
+   "x": 50434.6,
+   "y": 15059.3,
+   "block": "*D135"
+  },
+  {
+   "handle": "1FE7A",
+   "layer": "0",
+   "measure": 1190.0,
+   "override": "",
+   "x": 37641.5,
+   "y": 11222.3,
+   "block": "*D136"
+  },
+  {
+   "handle": "1FE8B",
+   "layer": "0",
+   "measure": 2997.22,
+   "override": "",
+   "x": 35834.3,
+   "y": 15827.9,
+   "block": "*D137"
+  },
+  {
+   "handle": "1FE99",
+   "layer": "0",
+   "measure": 4352.78,
+   "override": "",
+   "x": 31481.5,
+   "y": 15888.5,
+   "block": "*D138"
+  }
+ ],
+ "texts": [
+  {
+   "handle": "1E71A",
+   "layer": "0",
+   "text": "TANK ( CUSTOMER SCOPE)",
+   "x": 34895.1,
+   "y": 6811.1
+  },
+  {
+   "handle": "1E985",
+   "layer": "KON-LUFT",
+   "text": "AIR OUTLET",
+   "x": 38011.0,
+   "y": 9604.0
+  },
+  {
+   "handle": "1EBAA",
+   "layer": "KON-LUFT",
+   "text": "AIR OUTLET",
+   "x": 56964.1,
+   "y": 9604.0
+  },
+  {
+   "handle": "1EBAC",
+   "layer": "KON-LUFT",
+   "text": "AIR OUTLET",
+   "x": 50726.2,
+   "y": 13900.6
+  },
+  {
+   "handle": "1EC06",
+   "layer": "ZNG-TEXT05",
+   "text": "FRONT VIEW",
+   "x": 39343.0,
+   "y": 12866.0
+  },
+  {
+   "handle": "1EC08",
+   "layer": "ZNG-TEXT05",
+   "text": "A",
+   "x": 39349.1,
+   "y": 12337.0
+  },
+  {
+   "handle": "1EC0C",
+   "layer": "ZNG-TEXT05",
+   "text": "A",
+   "x": 39349.1,
+   "y": 12337.0
+  },
+  {
+   "handle": "1EC0F",
+   "layer": "ZNG-TEXT05",
+   "text": "LEFT VIEW",
+   "x": 34940.4,
+   "y": 15058.6
+  },
+  {
+   "handle": "1EC10",
+   "layer": "ZNG-TEXT05",
+   "text": "RIGHT VIEW",
+   "x": 34811.4,
+   "y": 10675.9
+  },
+  {
+   "handle": "1EC15",
+   "layer": "ZNG-TEXT05",
+   "text": "Rear View",
+   "x": 29910.2,
+   "y": 12572.9
+  },
+  {
+   "handle": "1EC18",
+   "layer": "ZNG-TEXT05",
+   "text": "A",
+   "x": 30753.7,
+   "y": 12206.8
+  },
+  {
+   "handle": "1EC1A",
+   "layer": "ZNG-TEXT05",
+   "text": "A",
+   "x": 30753.7,
+   "y": 12206.8
+  },
+  {
+   "handle": "1EC1C",
+   "layer": "ZNG-TEXT05",
+   "text": "TOP VIEW",
+   "x": 31891.0,
+   "y": 10049.6
+  },
+  {
+   "handle": "1EC1D",
+   "layer": "ZNG-TEXT05",
+   "text": "SECTION A-A",
+   "x": 31891.0,
+   "y": 6407.2
+  },
+  {
+   "handle": "1EC1E",
+   "layer": "ZNG-TEXT05",
+   "text": "SECTION B-B",
+   "x": 41367.6,
+   "y": 6407.2
+  },
+  {
+   "handle": "1EC24",
+   "layer": "ZNG-TEXT05",
+   "text": "B",
+   "x": 33273.2,
+   "y": 14501.6
+  },
+  {
+   "handle": "1EC28",
+   "layer": "ZNG-TEXT05",
+   "text": "B",
+   "x": 33273.2,
+   "y": 10900.4
+  },
+  {
+   "handle": "1EC2A",
+   "layer": "ZNG-TEXT05",
+   "text": "RIGHT VIEW",
+   "x": 50549.0,
+   "y": 6418.1
+  },
+  {
+   "handle": "1EC2B",
+   "layer": "ZNG-TEXT05",
+   "text": "LEFT VIEW",
+   "x": 50614.7,
+   "y": 10649.8
+  },
+  {
+   "handle": "1EC2C",
+   "layer": "ZNG-TEXT05",
+   "text": "Rear View",
+   "x": 60337.4,
+   "y": 6392.0
+  },
+  {
+   "handle": "1EC2D",
+   "layer": "ZNG-TEXT05",
+   "text": "FRONT VIEW",
+   "x": 60254.5,
+   "y": 10732.3
+  },
+  {
+   "handle": "1F1A3",
+   "layer": "0",
+   "text": "01",
+   "x": 40653.0,
+   "y": 4449.0
+  },
+  {
+   "handle": "1F1A4",
+   "layer": "0",
+   "text": "1 / 2",
+   "x": 44823.9,
+   "y": 4449.0
+  },
+  {
+   "handle": "1F320",
+   "layer": "0",
+   "text": "02",
+   "x": 59606.2,
+   "y": 4449.0
+  },
+  {
+   "handle": "1F321",
+   "layer": "0",
+   "text": "2 / 2",
+   "x": 63777.0,
+   "y": 4449.0
+  }
+ ],
+ "mleaders": [
+  {
+   "handle": "1DD3E",
+   "text": "1",
+   "x": 39556.8,
+   "y": 14758.1
+  },
+  {
+   "handle": "1E74A",
+   "text": "2",
+   "x": 36907.8,
+   "y": 13842.5
+  },
+  {
+   "handle": "1E74B",
+   "text": "3",
+   "x": 37340.4,
+   "y": 10385.9
+  },
+  {
+   "handle": "1E74C",
+   "text": "4",
+   "x": 36467.8,
+   "y": 14833.1
+  },
+  {
+   "handle": "1E74D",
+   "text": "4",
+   "x": 36467.8,
+   "y": 10858.2
+  },
+  {
+   "handle": "1E895",
+   "text": "5",
+   "x": 35162.7,
+   "y": 14834.4
+  },
+  {
+   "handle": "1E8A0",
+   "text": "5",
+   "x": 37068.2,
+   "y": 10859.5
+  },
+  {
+   "handle": "1E8A1",
+   "text": "6",
+   "x": 33928.6,
+   "y": 14834.4
+  },
+  {
+   "handle": "1E8A2",
+   "text": "7",
+   "x": 37499.2,
+   "y": 10858.2
+  },
+  {
+   "handle": "1E9BA",
+   "text": "9",
+   "x": 31108.8,
+   "y": 14106.4
+  },
+  {
+   "handle": "1E9BB",
+   "text": "8",
+   "x": 31108.8,
+   "y": 13255.1
+  },
+  {
+   "handle": "1E9BC",
+   "text": "10",
+   "x": 38352.8,
+   "y": 14613.0
+  },
+  {
+   "handle": "1E9BD",
+   "text": "11",
+   "x": 39181.4,
+   "y": 13812.5
+  },
+  {
+   "handle": "1E9C8",
+   "text": "12",
+   "x": 32069.2,
+   "y": 13106.6
+  },
+  {
+   "handle": "1E9C9",
+   "text": "13",
+   "x": 32352.7,
+   "y": 12586.7
+  },
+  {
+   "handle": "1E9CA",
+   "text": "14",
+   "x": 34684.8,
+   "y": 14915.9
+  },
+  {
+   "handle": "1E9CB",
+   "text": "15",
+   "x": 34756.8,
+   "y": 12052.2
+  },
+  {
+   "handle": "1E9E4",
+   "text": "16",
+   "x": 33146.7,
+   "y": 10859.5
+  },
+  {
+   "handle": "1E9E7",
+   "text": "17",
+   "x": 35845.2,
+   "y": 14868.1
+  },
+  {
+   "handle": "1EA47",
+   "text": "12",
+   "x": 32083.3,
+   "y": 7337.7
+  },
+  {
+   "handle": "1EAFB",
+   "text": "3",
+   "x": 56293.5,
+   "y": 10385.9
+  },
+  {
+   "handle": "1EB0F",
+   "text": "3",
+   "x": 51925.7,
+   "y": 14682.6
+  },
+  {
+   "handle": "1F60C",
+   "text": "18",
+   "x": 34217.5,
+   "y": 10859.5
+  }
+ ],
+ "circles": [
+  {
+   "handle": "1EC5F",
+   "layer": "0",
+   "r": 199.5,
+   "x": 61379.6,
+   "y": 9848.5
+  }
+ ],
+ "inserts": [
+  {
+   "handle": "B490",
+   "name": "eeeeeeeee",
+   "layer": "0",
+   "x": 30797.9,
+   "y": -264.2,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "172DD",
+   "name": "eeeeeeeeeeee",
+   "layer": "0",
+   "x": 31145.8,
+   "y": 4286.3,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1BC8E",
+   "name": "eeeeeee",
+   "layer": "0",
+   "x": 31315.8,
+   "y": 4243.2,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1C18D",
+   "name": "mmmmmmmmmmmm",
+   "layer": "0",
+   "x": -260.0,
+   "y": -693.5,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1C191",
+   "name": "mmmmmmmmmmmm",
+   "layer": "0",
+   "x": -90.0,
+   "y": -5171.7,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1C28A",
+   "name": "fl",
+   "layer": "0",
+   "x": 20199.9,
+   "y": 46606.2,
+   "sx": 1,
+   "rot": 270.0
+  },
+  {
+   "handle": "1C28B",
+   "name": "mml",
+   "layer": "0",
+   "x": 20199.9,
+   "y": 46606.2,
+   "sx": 1,
+   "rot": 270.0
+  },
+  {
+   "handle": "1D59F",
+   "name": "ex m",
+   "layer": "0",
+   "x": -1817.6,
+   "y": -547.7,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1D64D",
+   "name": "EM",
+   "layer": "0",
+   "x": 60091.1,
+   "y": 1794.4,
+   "sx": 1,
+   "rot": 90.0
+  },
+  {
+   "handle": "1D666",
+   "name": "mmnnmmn",
+   "layer": "fram",
+   "x": -26734.4,
+   "y": 31554.7,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1D6DD",
+   "name": "mmm",
+   "layer": "0",
+   "x": -8138.4,
+   "y": -2773.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1DA08",
+   "name": "fl",
+   "layer": "0",
+   "x": 20199.9,
+   "y": 42059.5,
+   "sx": 1,
+   "rot": 270.0
+  },
+  {
+   "handle": "1DA09",
+   "name": "mml",
+   "layer": "0",
+   "x": 20199.9,
+   "y": 42059.5,
+   "sx": 1,
+   "rot": 270.0
+  },
+  {
+   "handle": "1DA9D",
+   "name": "Swing Door COntainer ENd",
+   "layer": "0",
+   "x": 84311.3,
+   "y": 44268.6,
+   "sx": -0.9969899945833344,
+   "rot": 270.0
+  },
+  {
+   "handle": "1DB26",
+   "name": "gp",
+   "layer": "0",
+   "x": 22587.2,
+   "y": 47489.4,
+   "sx": 1,
+   "rot": 270.0
+  },
+  {
+   "handle": "1DB27",
+   "name": "ccccccccccc",
+   "layer": "0",
+   "x": 70140.2,
+   "y": 18843.2,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1DB2B",
+   "name": "Swing Door COntainer ENd",
+   "layer": "0",
+   "x": 84311.3,
+   "y": -18727.3,
+   "sx": 0.9969899945833344,
+   "rot": 270.0
+  },
+  {
+   "handle": "1DC78",
+   "name": "bbbbbbbbbbbbb",
+   "layer": "0",
+   "x": 10588.6,
+   "y": -2684.7,
+   "sx": 1.227374304246731,
+   "rot": 0
+  },
+  {
+   "handle": "1DEAF",
+   "name": "ffffffffffffffffffff",
+   "layer": "0",
+   "x": 18969.2,
+   "y": -6138.9,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1E779",
+   "name": "FFFFFFFFFFF",
+   "layer": "0",
+   "x": 54399.0,
+   "y": 17970.8,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1E77A",
+   "name": "FFFFFFFFFFF",
+   "layer": "0",
+   "x": 16064.0,
+   "y": 7570.6,
+   "sx": 1,
+   "rot": 180.0
+  },
+  {
+   "handle": "1E937",
+   "name": "ARI",
+   "layer": "0",
+   "x": 28223.6,
+   "y": 9703.0,
+   "sx": 1,
+   "rot": 90.0
+  },
+  {
+   "handle": "1E938",
+   "name": "ARI",
+   "layer": "0",
+   "x": 28223.6,
+   "y": 8948.9,
+   "sx": 1,
+   "rot": 90.0
+  },
+  {
+   "handle": "1E939",
+   "name": "ARI",
+   "layer": "0",
+   "x": 28223.6,
+   "y": 8211.9,
+   "sx": 1,
+   "rot": 90.0
+  },
+  {
+   "handle": "1E9B9",
+   "name": "SSSSSSSSS",
+   "layer": "0",
+   "x": 10220.5,
+   "y": 3226.7,
+   "sx": 0.7,
+   "rot": 0
+  },
+  {
+   "handle": "1EA46",
+   "name": "TTTTTTTT",
+   "layer": "0",
+   "x": 10363.6,
+   "y": -1545.7,
+   "sx": 0.7695,
+   "rot": 0
+  },
+  {
+   "handle": "1EA4E",
+   "name": "bbbbbbbbbbbbb",
+   "layer": "0",
+   "x": 29541.7,
+   "y": -2684.7,
+   "sx": 1.227374304246731,
+   "rot": 0
+  },
+  {
+   "handle": "1EA5E",
+   "name": "fffffffffffffff",
+   "layer": "0",
+   "x": 5277.6,
+   "y": 540.4,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EAB7",
+   "name": "DDDD",
+   "layer": "0",
+   "x": 78180.5,
+   "y": 18843.2,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EAB8",
+   "name": "EMMMMMMMMM",
+   "layer": "0",
+   "x": 14553.0,
+   "y": 14749.6,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1EAB9",
+   "name": "DDDD",
+   "layer": "0",
+   "x": 30188.7,
+   "y": 18843.2,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1EAF4",
+   "name": "ex m",
+   "layer": "0",
+   "x": 17135.5,
+   "y": -547.7,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EB05",
+   "name": "DDDD",
+   "layer": "0",
+   "x": 30038.7,
+   "y": 23139.8,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1EB06",
+   "name": "EMMMMMMMMM",
+   "layer": "0",
+   "x": 95566.2,
+   "y": 19046.3,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EB07",
+   "name": "DDDD",
+   "layer": "0",
+   "x": 78030.5,
+   "y": 23139.8,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EB08",
+   "name": "ex m",
+   "layer": "0",
+   "x": 91083.7,
+   "y": 3749.0,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1EBA9",
+   "name": "SSSSSSSSS",
+   "layer": "0",
+   "x": 29173.6,
+   "y": 3226.7,
+   "sx": 0.7,
+   "rot": 0
+  },
+  {
+   "handle": "1EBAB",
+   "name": "SSSSSSSSS",
+   "layer": "0",
+   "x": 79045.7,
+   "y": 7523.3,
+   "sx": -0.7,
+   "rot": 0
+  },
+  {
+   "handle": "1EBD1",
+   "name": "mmm",
+   "layer": "0",
+   "x": 10814.7,
+   "y": 1523.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1EC07",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 39293.7,
+   "y": 12377.8,
+   "sx": -14.0,
+   "rot": 90.0
+  },
+  {
+   "handle": "1EC0B",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 39293.7,
+   "y": 12377.8,
+   "sx": -14.0,
+   "rot": 90.0
+  },
+  {
+   "handle": "1EC17",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 30939.5,
+   "y": 12247.6,
+   "sx": 14.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1EC19",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 30939.5,
+   "y": 12247.6,
+   "sx": 14.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1EC21",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 33224.8,
+   "y": 14556.2,
+   "sx": 14.0,
+   "rot": 180.0
+  },
+  {
+   "handle": "1EC23",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 33224.8,
+   "y": 14556.2,
+   "sx": 14.0,
+   "rot": 180.0
+  },
+  {
+   "handle": "1EC26",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 33224.8,
+   "y": 10985.7,
+   "sx": -14.0,
+   "rot": 7.993605777301127e-14
+  },
+  {
+   "handle": "1EC27",
+   "name": "SCHNITTPFEIL",
+   "layer": "ZNG-TEXT05",
+   "x": 33224.8,
+   "y": 10985.7,
+   "sx": -14.0,
+   "rot": 7.993605777301127e-14
+  },
+  {
+   "handle": "1EC64",
+   "name": "SW_CENTERMARKSYMBOL_0",
+   "layer": "RED",
+   "x": 61379.6,
+   "y": 9848.5,
+   "sx": 9.00000000000009,
+   "rot": 0
+  },
+  {
+   "handle": "1ED1B",
+   "name": "lllllllllllgggggggggggggggggggg",
+   "layer": "0",
+   "x": 81043.9,
+   "y": 25571.7,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1F1A0",
+   "name": "FFFFFFFFFFFFFFFF",
+   "layer": "0",
+   "x": 14888.3,
+   "y": 1902.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F1A1",
+   "name": "FFFFFFFFFFFFFFFF",
+   "layer": "0",
+   "x": 107870.3,
+   "y": -2394.7,
+   "sx": -1.0,
+   "rot": 0
+  },
+  {
+   "handle": "1F353",
+   "name": "EM",
+   "layer": "0",
+   "x": 57260.6,
+   "y": 1794.4,
+   "sx": 1,
+   "rot": 90.0
+  },
+  {
+   "handle": "1F354",
+   "name": "mmnnmmn",
+   "layer": "fram",
+   "x": -29564.9,
+   "y": 31554.7,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F355",
+   "name": "mmnnmmn",
+   "layer": "fram",
+   "x": -26734.4,
+   "y": 29369.4,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F414",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F415",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F416",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F417",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F418",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F419",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F41F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F420",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F421",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F422",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F423",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F424",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F425",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F426",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F427",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F428",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5500.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F429",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5750.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6000.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6250.0,
+   "y": 0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F42F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F430",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F431",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F432",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F433",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F434",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F435",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F436",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F437",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F438",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F439",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F43F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F440",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F441",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F442",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F443",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F444",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F445",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F446",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6425.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F447",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6675.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F448",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6925.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F449",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -7175.0,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F44B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -44529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F44C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -44279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F44D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -44779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F44E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -45029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F44F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -45279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F450",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -45779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F451",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -45529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F452",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -46029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F453",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -46279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F457",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -44529.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F458",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -44279.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F459",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -44779.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -45029.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -45279.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -45779.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -45529.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -46029.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F45F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -46279.0,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F460",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F461",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F462",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F463",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F464",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F465",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F466",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F467",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F468",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F469",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F46F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F470",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F471",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F472",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F473",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F474",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F475",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F476",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F477",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F478",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F479",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6425.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F47A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6675.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F47B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -6925.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F47C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -7175.0,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F47F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -48825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F480",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -48575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F481",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -49075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F482",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -49325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F483",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -49575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F484",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -50075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F485",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -49825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F486",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -50325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F487",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 48310.7,
+   "y": -50575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F488",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -48825.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F489",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -48575.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -49075.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -49325.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -49575.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -50075.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -49825.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F48F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -50325.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F490",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 59908.6,
+   "y": -50575.7,
+   "sx": 1,
+   "rot": 90.00000000000001
+  },
+  {
+   "handle": "1F491",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F492",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F493",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F494",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F495",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F496",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F497",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F498",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -1925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F499",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49A",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49B",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49C",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -2675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49D",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49E",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F49F",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -3925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A3",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A4",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -4925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A5",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5425.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A6",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A7",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5675.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A8",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -5925.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4A9",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": -7175.0,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4AA",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -44529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4AB",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -44279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4AC",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -44779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4AD",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -45029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4AE",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -45279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4AF",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -45779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -45529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -46029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -46279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B3",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -44529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B4",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -44279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B5",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -44779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B6",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -45029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B7",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -45279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B8",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -45779.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4B9",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -45529.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4BA",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -46029.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4BB",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -46279.0,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4BC",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4094.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4BD",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4344.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4BE",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3844.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4BF",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3594.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3344.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2844.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3094.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C3",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2594.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C4",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4594.7,
+   "y": 1856.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C5",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4094.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C6",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4344.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C7",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3844.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C8",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3594.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4C9",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3344.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4CA",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2844.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4CB",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3094.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4CC",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2594.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4CD",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4594.7,
+   "y": 4296.6,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4CF",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -48825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -48575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -49075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -49325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D3",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -49575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D4",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -50075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D5",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -49825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D6",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -50325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D7",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 53130.3,
+   "y": -50575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D8",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -49075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4D9",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -49325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DA",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -49575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DB",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -50075.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DC",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -49825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DD",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -50325.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DE",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -50575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4DF",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4094.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4344.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3844.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3594.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E3",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3344.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E4",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2844.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E5",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3094.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E6",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2594.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E7",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4594.7,
+   "y": -2440.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E8",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4094.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4E9",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4344.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4EA",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3844.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4EB",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3594.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4EC",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3344.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4ED",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2844.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4EE",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 3094.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4EF",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 2594.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4F0",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 4594.7,
+   "y": -0.0,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F4F1",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -48825.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F4F2",
+   "name": "MMMMMMMMMMM",
+   "layer": "0",
+   "x": 50780.3,
+   "y": -48575.7,
+   "sx": -1.0,
+   "rot": 270.0
+  },
+  {
+   "handle": "1F56E",
+   "name": "DDDDDD 1",
+   "layer": "0",
+   "x": 24502.3,
+   "y": 8120.7,
+   "sx": 1,
+   "rot": 180.0
+  },
+  {
+   "handle": "1F5F9",
+   "name": "ladd",
+   "layer": "0",
+   "x": 17376.1,
+   "y": 22853.9,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F712",
+   "name": "FFFFFFFFFFFFEE",
+   "layer": "0",
+   "x": 73690.3,
+   "y": 13319.1,
+   "sx": 1,
+   "rot": 0
+  },
+  {
+   "handle": "1F746",
+   "name": "LLLLLLLLLLLLLLLLLL",
+   "layer": "0",
+   "x": 16047.4,
+   "y": -27639.1,
+   "sx": 1,
+   "rot": 0
+  }
+ ],
+ "block_text": {
+  "*Model_Space": [
+   "TANK ( CUSTOMER SCOPE)",
+   "AIR OUTLET",
+   "AIR OUTLET",
+   "AIR OUTLET",
+   "FRONT VIEW",
+   "A",
+   "A",
+   "LEFT VIEW",
+   "RIGHT VIEW",
+   "Rear View"
+  ],
+  "*D5": [
+   "2550"
+  ],
+  "A$C6ef85754": [
+   "M",
+   "MANSOUR",
+   "MANTRAC"
+  ],
+  "*D7": [
+   "2450"
+  ],
+  "*D8": [
+   "7350"
+  ],
+  "*D9": [
+   "2550"
+  ],
+  "bbbbbbbbbbbbb": [
+   "%%UPRELIMINARY%%U",
+   "NOT FOR CONSTRUCTION",
+   "REVISION:",
+   "UNIT:",
+   "DATE:",
+   "DESCRIPTION:",
+   "REV:",
+   "BY:",
+   "PROJECT NAME:",
+   "DRAWN BY:"
+  ],
+  "*D28": [
+   "800"
+  ],
+  "*D29": [
+   "250"
+  ],
+  "*D38": [
+   "1000"
+  ],
+  "*D39": [
+   "500"
+  ],
+  "fffffffffffffff": [
+   "1",
+   "PS",
+   "JB",
+   "2"
+  ],
+  "FFFFFFFFFFFFFFFF": [
+   "1",
+   "1",
+   "PS"
+  ],
+  "*D52": [
+   "600"
+  ],
+  "*D53": [
+   "200"
+  ],
+  "*D55": [
+   "2850"
+  ],
+  "*D56": [
+   "1500"
+  ],
+  "*D57": [
+   "1100"
+  ],
+  "*D58": [
+   "600"
+  ],
+  "*D59": [
+   "1300"
+  ],
+  "*D60": [
+   "1800"
+  ],
+  "*D61": [
+   "600"
+  ],
+  "*D62": [
+   "450"
+  ],
+  "*D63": [
+   "1500"
+  ],
+  "*D64": [
+   "1800"
+  ],
+  "*D65": [
+   "200"
+  ],
+  "*D66": [
+   "7350"
+  ],
+  "ARI": [
+   "AIR INLET"
+  ],
+  "TTTTTTTT": [
+   "Item",
+   "2",
+   "4",
+   "6",
+   "GENSET C27",
+   "QTY",
+   "1",
+   "1",
+   "NO",
+   "3"
+  ],
+  "*D74": [
+   "450"
+  ],
+  "*D75": [
+   "1500"
+  ],
+  "*D76": [
+   "1800"
+  ],
+  "*D77": [
+   "200"
+  ],
+  "*D78": [
+   "7350"
+  ],
+  "*D79": [
+   "1800"
+  ],
+  "*D80": [
+   "600"
+  ],
+  "*D81": [
+   "1000"
+  ],
+  "*D82": [
+   "7350"
+  ],
+  "*D83": [
+   "1300"
+  ],
+  "*D84": [
+   "2850"
+  ],
+  "*D85": [
+   "1500"
+  ],
+  "*D86": [
+   "1100"
+  ],
+  "*D87": [
+   "600"
+  ],
+  "*D88": [
+   "225"
+  ],
+  "*D89": [
+   "2000"
+  ],
+  "*D90": [
+   "225"
+  ],
+  "*D91": [
+   "2450"
+  ],
+  "*D92": [
+   "2450"
+  ],
+  "*D95": [
+   "1100"
+  ],
+  "*D99": [
+   "219"
+  ],
+  "*D101": [
+   "3002"
+  ],
+  "*D102": [
+   "3000"
+  ],
+  "*D103": [
+   "300"
+  ],
+  "*D104": [
+   "2000"
+  ],
+  "*D105": [
+   "3000",
+   "50"
+  ],
+  "*D107": [
+   "2400"
+  ],
+  "*D108": [
+   "2450"
+  ],
+  "*D109": [
+   "90"
+  ],
+  "*D110": [
+   "2270"
+  ],
+  "*D111": [
+   "1165"
+  ],
+  "*D112": [
+   "1385"
+  ],
+  "*D113": [
+   "219"
+  ],
+  "*D115": [
+   "4323"
+  ],
+  "*D117": [
+   "1647",
+   "219"
+  ],
+  "*D118": [
+   "185"
+  ],
+  "*D119": [
+   "185"
+  ],
+  "*D120": [
+   "225"
+  ],
+  "*D121": [
+   "225"
+  ],
+  "*D122": [
+   "470"
+  ],
+  "*D124": [
+   "442"
+  ],
+  "*D125": [
+   "428"
+  ],
+  "*D126": [
+   "380"
+  ],
+  "*D127": [
+   "378",
+   "219",
+   "337"
+  ],
+  "*D128": [
+   "613",
+   "2827"
+  ],
+  "*D129": [
+   "4523"
+  ],
+  "*D131": [
+   "1807"
+  ],
+  "*D132": [
+   "1020"
+  ],
+  "*D133": [
+   "1020"
+  ],
+  "*D134": [
+   "2827"
+  ],
+  "*D135": [
+   "2827"
+  ],
+  "*D136": [
+   "1190"
+  ],
+  "*D137": [
+   "2997"
+  ],
+  "*D138": [
+   "4353"
+  ]
+ },
+ "keyword_hits": {}
+}
